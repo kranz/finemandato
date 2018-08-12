@@ -8,6 +8,11 @@
   "minutes": "minutes",
   "seconds": "secondes",  
   "timetoelapse": "Tempo che ci separa dalla fine del mandato dell'attuale Presidente della Repubblica",
+  "timeleftrow1": "Tempo",
+  "timeleftrow2": "che ci separa",
+  "timeleftrow3": "dalla fine del mandato",
+  "timeleftrow4": "dell'attuale",
+  "timeleftrow5": "Presidente della Repubblica",
   "timeleft": {
     "row1": "Tempo",
     "row2": "che ci separa",
