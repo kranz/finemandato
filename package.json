@@ -2,6 +2,10 @@
   "name": "finemandato",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "6.2.0",
+    "node": "9.5.0"
+  },
   "homepage": "https://kranz.github.io/finemandato",
   "dependencies": {
     "i18next": "^11.6.0",

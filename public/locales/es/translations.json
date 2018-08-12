@@ -2,11 +2,11 @@
   "apptitle": "Countdown",
   "title": "Per chi vuole sapere quanto tempo manca",
   "pagenotfound": "Page not found",
-  "years": "years",
-  "days": "days",
-  "hours": "hours",
-  "minutes": "minutes",
-  "seconds": "seconds",
+  "years": "años",
+  "days": "días",
+  "hours": "horas",
+  "minutes": "minutos",
+  "seconds": "segundos",
   "timetoelapse": "Time until President of the Italian Republic leaves office",
   "timeleftrow1": "Tempo",
   "timeleftrow2": "che ci separa",
@@ -25,3 +25,4 @@
     "description": "Keep deadlines and requirements under control for your customers"
   }
 }
+10  9  4  14  11 segundos
