@@ -85,11 +85,11 @@ class Countdown extends Component {
         (t, {i18n}) => (
           <Grid padded columns={3}>
             <Grid.Column verticalAlign="middle">
-              <Header as="h1" textAlign="center">{t('timeleft.row1')}</Header>
-              <Header as="h1" textAlign="center">{t('timeleft.row2')}</Header>
-              <Header as="h1" textAlign="center">{t('timeleft.row3')}</Header>
-              <Header as="h1" textAlign="center">{t('timeleft.row4')}</Header>
-              <Header as="h1" textAlign="center">{t('timeleft.row5')}</Header>
+              <Header as="h1" textAlign="center">{t('timeleftrow1')}</Header>
+              <Header as="h1" textAlign="center">{t('timeleftrow2')}</Header>
+              <Header as="h1" textAlign="center">{t('timeleftrow3')}</Header>
+              <Header as="h1" textAlign="center">{t('timeleftrow4')}</Header>
+              <Header as="h1" textAlign="center">{t('timeleftrow5')}</Header>
             </Grid.Column>
             <Grid.Column verticalAlign="middle">
               <Table className="cdtable" collapsing padded textAlign='center'>
