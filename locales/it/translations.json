@@ -1,0 +1,22 @@
+{
+  "apptitle": "Countdown",
+  "title": "Per chi vuole sapere quanto tempo manca",
+  "pagenotfound": "Page not found",
+  "years": "anni",
+  "days": "giorni",
+  "hours": "ore",
+  "minutes": "minuti",
+  "seconds": "secondi",
+  "timetoelapse": "Tempo che ci separa dalla fine del mandato dell'attuale Presidente della Repubblica",
+  "timeleft": {
+    "row1": "Tempo",
+    "row2": "che ci separa",
+    "row3": "dalla fine del mandato",
+    "row4": "dell'attuale",
+    "row5": "Presidente della Repubblica"
+  },
+   "home": {
+    "meta": "Safety, HACCP, GDPR, updates and certifications",
+    "description": "Keep deadlines and requirements under control for your customers"
+  }
+}
