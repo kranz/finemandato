@@ -8,6 +8,11 @@
   "minutes": "minutes",
   "seconds": "seconds",
   "timetoelapse": "Time until President of the Italian Republic leaves office",
+  "timeleftrow1": "Tempo",
+  "timeleftrow2": "che ci separa",
+  "timeleftrow3": "dalla fine del mandato",
+  "timeleftrow4": "dell'attuale",
+  "timeleftrow5": "Presidente della Repubblica",
   "timeleft": {
     "row1": "Time",
     "row2": "until",
