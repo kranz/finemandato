@@ -1,0 +1,22 @@
+{
+  "apptitle": "Countdown",
+  "title": "Per chi vuole sapere quanto tempo manca",
+  "pagenotfound": "Page not found",
+  "years": "years",
+  "days": "days",
+  "hours": "hours",
+  "minutes": "minutes",
+  "seconds": "seconds",
+  "timetoelapse": "Time until President of the Italian Republic leaves office",
+  "timeleft": {
+    "row1": "Time",
+    "row2": "until",
+    "row3": "President",
+    "row4": "of the Italian Republic",
+    "row5": "leaves office"
+  },
+   "home": {
+    "meta": "Safety, HACCP, GDPR, updates and certifications",
+    "description": "Keep deadlines and requirements under control for your customers"
+  }
+}

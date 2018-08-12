@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+}
+
+.App-header .title{
+  margin-top: 40px;
+}
+
+.App-header a{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  transition: .2s all;
+}
+.App-header a:hover{
+  opacity: .7;
+}
+
+.cdnumber {
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.item {
+  margin: 10px 0px 10px 0px;
+}
+.content {
+  margin: 10px 0px 10px 0px;
+}
+.ui.table.cdtable {
+  margin-left:100px;
+}
