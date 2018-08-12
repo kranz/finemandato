@@ -2,6 +2,7 @@
   "name": "finemandato",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kranz.github.io/finemandato",
   "dependencies": {
     "i18next": "^11.6.0",
     "i18next-browser-languagedetector": "^2.2.3",
@@ -14,9 +15,14 @@
     "semantic-ui-react": "^0.82.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.2.0"
   }
 }
